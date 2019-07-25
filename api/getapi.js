@@ -1,0 +1,3 @@
+function GetApi(){
+    return true
+}
